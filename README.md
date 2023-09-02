@@ -1,0 +1,2 @@
+# IchHabeEinProfil
+.config
